@@ -44,5 +44,8 @@ vignettes/*.pdf
 *.xlsx
 *.xls
 
+# html
+*.html
+
 # Desktop file lists
 .DS_Store
